@@ -13,17 +13,17 @@ include:
   d_slidedeck_share.md
   e_others.md
 
-relative_links:
-  enabled: true
-  collections: true
+# relative_links:
+#   enabled: true
+#   collections: true
 
 title: オンライン授業支援のためのリソース（仮）
 description: " "
 
 
 
-github:
-  is_project_page: false
+# github:
+#   is_project_page: false
 
 # custom_header: true
 # custom_nav_footer: false
