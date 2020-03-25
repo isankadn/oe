@@ -28,3 +28,5 @@ github:
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+header_page_refs: ['now', 'about', 'contact']
