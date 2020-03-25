@@ -4,6 +4,8 @@ plugins:
   
 include:
   index.md
+  panda.md
+  kaltura.md
 
 relative_links:
   enabled: true
