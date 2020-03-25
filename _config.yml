@@ -25,8 +25,11 @@ description: " "
 github:
   is_project_page: false
 
-custom_header: true
-custom_nav_footer: false
-reverse: false
+# custom_header: true
+# custom_nav_footer: false
+# reverse: false
 
-header_page_refs: ['now', 'panda', 'contact']
+# header_page_refs: ['now', 'panda', 'contact']
+
+#Others
+markdown: kramdown
