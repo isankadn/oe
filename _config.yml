@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
+# plugins:
+#   - jekyll-relative-links
   
 include:
   index.md
