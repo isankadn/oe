@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: {{ site.name }}
+---
 
 # PandAの概要
 

@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: {{ site.name }}
+---
 # Kalturaの概要
 
 PandA内で映像教材支援ツール「Kaltura（カルチュラ）」を利用できます。
