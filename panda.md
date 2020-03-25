@@ -1,11 +1,4 @@
----
-layout: page
-title: Panda
-tagline: ''
-permalink: /panda
-ref: panda
-order: 0
----
+
 
 # PandAの概要
 
