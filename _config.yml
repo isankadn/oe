@@ -25,7 +25,7 @@ description: " "
 github:
   is_project_page: false
 
-custom_header: false
+custom_header: true
 custom_nav_footer: false
 reverse: false
 
