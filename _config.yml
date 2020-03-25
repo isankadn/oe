@@ -33,3 +33,5 @@ include:
 
 #Others
 markdown: kramdown
+
+theme: jekyll-theme-cayman
