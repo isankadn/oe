@@ -2,7 +2,7 @@
 layout: page
 title: Panda
 tagline: ''
-permalink: /panda.html
+permalink: /panda
 ref: panda
 order: 0
 ---
