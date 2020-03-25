@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: {{ site.name }}
+---
 # 授業のオンライン配信について
 
 <!--
