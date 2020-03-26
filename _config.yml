@@ -5,6 +5,7 @@ theme: jekyll-theme-cayman
 include:
   index.md
   panda.md
+  zoom.md
   kaltura.md
   a_zoom_classroom.md
   b_zoom_own.md
